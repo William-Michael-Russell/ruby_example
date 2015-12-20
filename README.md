@@ -15,4 +15,6 @@ Getting started:
 
 9. Memorize the code until you can type it in your sleep.
 
-
+Helpful links:
+1. http://rubypageobjects.kevinswallow.com/rpo3.html
+more tbd, im tired :) 
