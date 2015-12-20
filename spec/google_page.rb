@@ -9,6 +9,7 @@ class GooglePage
 
 #properties
   def url
+    #url below is a simple string in the URL format
     url="http://google.com"
   end
 
@@ -29,8 +30,8 @@ class GooglePage
 
   def submitButton
     submitButton = @driver.find_element(:name => "btnK")
-    puts "sleeping for 5 seconds"
-    sleep(5)
+    puts "sleeping for 2 seconds"
+    sleep(2)
   end
 
 end
