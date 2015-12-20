@@ -5,7 +5,7 @@ Training friends and family
 Getting started:
 
 1. Clone the repository using SourceTree (Remember the path of where you've saved the code) 
-⋅⋅* example /Users/william/Desktop
+  * example /Users/william/Desktop 
 2. Open your terminal 
 3. type: gem update
 4. type: gem install bundler
