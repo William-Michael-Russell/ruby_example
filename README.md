@@ -2,14 +2,14 @@
 Training friends and family
 
 NOTE:
-If you receive an error with any commands below, such as:
-You don't have write permissions for the /Library/Ruby/Gems/2.0.0
+If you receive an error with any commands below, such as: <br />
+You don't have write permissions for the /Library/Ruby/Gems/2.0.0 <br />
 
-add "sudo" to your command.
-Example:
-  gem install bundle -- might throw a permission error
-  add sudo
-  sudo gem install bundle -- this will ask for your computer password
+add "sudo" to your command. <br />
+Example: <br />
+  gem install bundle -- might throw a permission error <br />
+  add sudo <br />
+  sudo gem install bundle -- this will ask for your computer password <br />
 
 Getting started:
 
