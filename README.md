@@ -31,4 +31,4 @@ Getting started:
 
 Helpful links:
 1. http://rubypageobjects.kevinswallow.com/rpo3.html
-more tbd, im tired :)
+more tbd, im tired
